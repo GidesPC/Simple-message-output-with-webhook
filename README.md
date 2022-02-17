@@ -1,2 +1,1 @@
-# Simple-message-output-with-webhook
-простой вывод сообщений с помощью вебхука 
+Если у вас не установлен компонент dhooks, то его можно установить с помощью pip install dhooks в cmd
